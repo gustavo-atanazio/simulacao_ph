@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto utiliza um Arduino Uno para monitorar o nível de pH, a temperatura e a oxigenação de um líquido. Os valores são exibidos em um display LCD I2C e enviados para o monitor serial. A temperatura é medida com um sensor DHT22, e os níveis de pH e oxigenação são simulados usando potenciômetros.
+Este projeto utiliza um Arduino Uno para monitorar o nível de pH, a temperatura e a oxigenação de um líquido. Os valores são exibidos em um display LCD I2C e enviados para o monitor serial. A temperatura é medida com um sensor DHT22, e os níveis de pH e oxigenação são simulados usando potenciômetros. [Confira o projeto por este link](https://wokwi.com/projects/399970994004903937).
 
 ## Componentes utilizados
 
